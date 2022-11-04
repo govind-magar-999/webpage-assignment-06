@@ -4,5 +4,8 @@
 - Deployed link on netlify:
   [https://plants-and-seeds-service-landing-page.netlify.app/](https://plants-and-seeds-service-landing-page.netlify.app/)
   
- - Screenshot:
+ - Screenshots:
    ![Snapshot of entire page](https://github.com/govind-magar-999/webpage-assignment-06/blob/main/thumbnail.png)
+   
+   
+   ![Snapshot 2 of entire page](https://github.com/govind-magar-999/webpage-assignment-06/blob/main/6.png)
